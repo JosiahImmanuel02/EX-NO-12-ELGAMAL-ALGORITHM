@@ -4,7 +4,6 @@
 To Implement ELGAMAL ALGORITHM
 
 ## ALGORITHM:
-
 1. ElGamal Algorithm is a public-key cryptosystem based on the Diffie-Hellman key exchange and relies on the difficulty of solving the discrete logarithm problem.
 2. Initialization:
    - Select a large prime \( p \) and a primitive root \( g \) modulo \( p \) (these are public values).
